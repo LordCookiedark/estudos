@@ -1,22 +1,6 @@
 #include <stdio.h>
 #include <windows.h>
 
-
-////        computador = random.choice(opcoes)
-////        print(f"O computador escolheu: {computador}")
-////
-////        if jogador == computador:
-////            print("Empate!")
-////        elif (
-////            (jogador == 'pedra' and computador == 'tesoura') or
-////            (jogador == 'papel' and computador == 'pedra') or
-////            (jogador == 'tesoura' and computador == 'papel')
-////        ):
-////            print("Você venceu!")
-////        else:
-////           print("Você perdeu!")
-
-//--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 int main()
 {
     int opcao = 0;
