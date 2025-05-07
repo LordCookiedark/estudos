@@ -43,7 +43,7 @@ int main()
 
 
         char tecla;
-        scanf(" %c", &tecla);
+        scanf("%c", &tecla);
 
         switch (tecla)
         {
@@ -80,8 +80,7 @@ int main()
             printf("obrigado por jogar");
         }
 
-
-        return 0;
     }
 
+    return 0;
 }
